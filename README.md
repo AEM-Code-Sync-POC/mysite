@@ -17,6 +17,7 @@ Before using the aem-boilerplate, we recommand you to go through the documentati
 
 ```sh
 npm i
+
 ```
 
 ## Linting
