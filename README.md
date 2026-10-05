@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Abhijith's Demo Project
+Description for Abhijith's demo project
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
