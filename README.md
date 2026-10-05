@@ -1,5 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Abhijith's Demo Project
+Description for Abhijith's demo project
+
+
+
+
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
@@ -17,6 +21,7 @@ Before using the aem-boilerplate, we recommand you to go through the documentati
 
 ```sh
 npm i
+
 
 ```
 
